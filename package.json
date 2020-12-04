@@ -17,11 +17,10 @@
   },
   "homepage": "https://github.com/kingrain0428/my-wx-tfjs-demo#readme",
   "dependencies": {
-    "@tensorflow-models/posenet": "^2.2.1",
-    "@tensorflow/tfjs-backend-webgl": "^2.4.0",
-    "@tensorflow/tfjs-converter": "^2.4.0",
-    "@tensorflow/tfjs-core": "^2.4.0",
+    "@didi/wsgsig": "^3.0.11",
     "fetch-wechat": "0.0.3",
+    "miniprogram-sm-crypto": "^0.2.1",
+    "pako": "^2.0.2",
     "regenerator-runtime": "^0.13.7"
   }
 }

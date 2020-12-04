@@ -2,3 +2,9 @@
 page{
   height: 100%;
 }
+.test-view{
+  height: 100em;
+}
+.test-content{
+  margin: 10px 10px;
+}
