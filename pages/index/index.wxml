@@ -1,5 +1,5 @@
 <!--index.wxml-->
-<view class="" id='abc' >
+<view class="" id='abc' catchtap="touchtag" catchtouchmove="touchmove" >
 123124123
 <view class="test-view" >
   <view class="test-content" >

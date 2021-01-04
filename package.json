@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/kingrain0428/my-wx-tfjs-demo#readme",
   "dependencies": {
+    "@didi/mpx-fetch": "^2.1.20",
     "@didi/wsgsig": "^3.0.11",
     "fetch-wechat": "0.0.3",
     "miniprogram-sm-crypto": "^0.2.1",
+    "mpx-fetch": "^1.0.0",
     "pako": "^2.0.2",
     "regenerator-runtime": "^0.13.7"
   }
