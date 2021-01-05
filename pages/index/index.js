@@ -1,7 +1,6 @@
 //index.js
 const tf = require('@tensorflow/tfjs-core');
 const posenet = require('@tensorflow-models/posenet');
-const regeneratorRuntime = require('regenerator-runtime');
 Page({
   async onReady () {
     const camera = wx.createCameraContext(this);

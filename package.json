@@ -21,7 +21,6 @@
     "@tensorflow/tfjs-backend-webgl": "^2.4.0",
     "@tensorflow/tfjs-converter": "^2.4.0",
     "@tensorflow/tfjs-core": "^2.4.0",
-    "fetch-wechat": "0.0.3",
-    "regenerator-runtime": "^0.13.7"
+    "fetch-wechat": "0.0.3"
   }
 }
